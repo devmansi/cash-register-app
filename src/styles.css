@@ -1,0 +1,53 @@
+.container {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 1rem;
+    width: 50%;
+    margin: auto;
+    background: #f2f2f2;
+    border-radius: 20px;
+}
+
+.error-message {
+    font-style: bold;
+    color: red;
+}
+
+input {
+    border-radius: 8px;
+    padding: .8rem;
+    margin: .5rem 1rem;
+}
+
+button {
+    font-size: 1rem;
+    font-weight: bolder;
+    padding: .5rem 1rem ;
+    background-color:white;
+}
+
+table {
+    margin: auto;
+    margin-top:2rem;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+table caption {
+    padding: 2rem;
+    font-size: 1.8rem;
+    font-weight: bolder;
+}
+
+table td {
+    background-color:white;
+    padding: .5rem;
+}
+
+th {
+  background-color:white;
+  padding: .5rem;
+}
